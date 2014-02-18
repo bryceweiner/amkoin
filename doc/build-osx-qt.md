@@ -16,7 +16,7 @@ You will need to install [XQuartz](https://xquartz.macosforge.org). As of OS X M
 
 There's an assumption that you already have `git` installed, as well. If not, it's the path of least resistance to install [Github for Mac](https://mac.github.com/) (OS X 10.7+) or [Git for OS X](https://code.google.com/p/git-osx-installer/). It is also available via Homebrew or MacPorts.
 
-You will also need to install [Homebrew](http://brew.sh) or [MacPorts](https://www.macports.org/) in order to install library dependencies. It's largely a religious decision which to choose, but, as of December 2012, MacPorts is a little easier because you can just install the dependencies immediately - no other work required. If you're unsure, read the instructions through first in order to assess what you want to do. Homebrew is a little more popular among those newer to OS X.
+You will also need to install [Homebrew](http://brew.sh) or [MacPorts](https://www.macports.org/) in order to install library dependencies. It's largely a religious decision which to choose, but, as of December 2012, MacPorts is a little easier because you can just install the dependencies immediately - no other work required. If you're unsure, read the instructions through first in order to assess what you want to do. Homebrew is a little more popular among those newer to OS X. 
 
 The rest of this guide will use Homebrew.
 
