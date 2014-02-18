@@ -86,10 +86,6 @@ If you have an older machine, feel free to set the 'RELEASE=1' flag which add so
 Generate a Qt Makefile
 
         qmake USE_UPNP=1 USE_QRCODE=1 BOOST_LIB_PATH=/usr/local/lib BOOST_INCLUDE_PATH=/usr/local/include BDB_LIB_PATH=/usr/local/opt/berkeley-db4/lib BDB_INCLUDE_PATH=/usr/local/opt/berkeley-db4/include amkoin-qt.pro
-<<<<<<< HEAD
-
-=======
->>>>>>> 4e01344bd74d0f60e34f8cfaf154d03835aecdf3
 
 Run the compilation
 
